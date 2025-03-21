@@ -25,3 +25,43 @@ Este sistema implementa el modelo **MAPE-K** para el monitoreo y control de la t
 - Un caso hipotético sería la conservación de vacunas en condiciones ideales.  
 
 
+primero se guardan los datos obtenidos para posteriormente categorizar
+normal- temperatura
+anormal- temperatura
+normal- humedad
+anormal- humedad
+
+![image](https://github.com/user-attachments/assets/b284def0-41b4-4c13-b788-9b0ec9ba1b37)
+
+
+Se importa  a Weka
+
+![image](https://github.com/user-attachments/assets/037987a4-b77c-41ac-af3f-c9ae4107a429)
+
+
+Mediante  OpenFile
+asegurate de selecionar el formato debido como .csv en este caso
+
+
+![image](https://github.com/user-attachments/assets/a0539c85-df19-4da1-92c0-f830d1568f54)
+
+
+Asegurate de que todo este bien, que los datos esten en su formato
+
+![image](https://github.com/user-attachments/assets/442e2577-39fb-4681-99f7-b3d56ad2fa6d)
+
+Despues seleccionar el clasificador la pestaña
+![image](https://github.com/user-attachments/assets/83f23267-de84-4834-8dcf-277388df7881)
+
+
+Despues señeccionarel tipo de clasificador 
+![image](https://github.com/user-attachments/assets/90a4649d-f45d-4f3e-9c73-65ffab18f5a2)
+
+
+
+
+
+
+
+
+
