@@ -1,2 +1,3 @@
 
-![MAPE-k](https://github.com/user-attachments/assets/a605c313-a4f8-43a5-9962-222417970047)
+
+![image](https://github.com/user-attachments/assets/769ca8a9-b39a-4880-938c-3282211884fc)
