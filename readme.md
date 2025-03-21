@@ -24,6 +24,4 @@ Este sistema implementa el modelo **MAPE-K** para el monitoreo y control de la t
 - El ejecutor realiza una consulta a **OpenAPI** para obtener recomendaciones sobre cómo mantener la temperatura en un rango óptimo.  
 - Un caso hipotético sería la conservación de vacunas en condiciones ideales.  
 
-## Implementación en GitHub  
 
-Este proyecto se encuentra disponible en GitHub, donde puedes acceder al código y colaborar en su desarrollo.  
