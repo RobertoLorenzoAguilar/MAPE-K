@@ -58,6 +58,31 @@ Despues señeccionarel tipo de clasificador
 ![image](https://github.com/user-attachments/assets/90a4649d-f45d-4f3e-9c73-65ffab18f5a2)
 
 
+Al darle start te generara el conocimiento
+
+![image](https://github.com/user-attachments/assets/96aec125-cc4d-45fb-aa7d-b2edd41e0ab2)
+
+para analizar tus limites por variable temperatura, humedad
+
+en base  a ello puedes generar tu umbral de tolerancia 
+
+![image](https://github.com/user-attachments/assets/c7807ed6-3a12-4191-ae06-08b818af9eff)
+
+
+esto es lo que llama el analizador para considerar si alerta o no
+
+
+
+este es el codigo de Arduino para imprimir el valor del sensor en serial
+
+![image](https://github.com/user-attachments/assets/65360efe-dd43-470b-bc8d-dd293168a292)
+
+
+
+
+
+
+
 
 
 
