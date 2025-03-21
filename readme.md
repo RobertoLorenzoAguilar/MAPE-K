@@ -25,6 +25,65 @@ Este sistema implementa el modelo **MAPE-K** para el monitoreo y control de la t
 - Un caso hipotético sería la conservación de vacunas en condiciones ideales.  
 
 
+
+## Instrucciones para Clasificación de Datos en Weka
+
+### 1. Registro de Datos
+Se almacenan los valores obtenidos de los sensores para su posterior clasificación:
+
+- **Normal - Temperatura**
+- **Anormal - Temperatura**
+- **Normal - Humedad**
+- **Anormal - Humedad**
+
+![image](https://github.com/user-attachments/assets/b284def0-41b4-4c13-b788-9b0ec9ba1b37)
+
+### 2. Importación de Datos en Weka
+Se importa el archivo de datos en Weka.
+
+![image](https://github.com/user-attachments/assets/037987a4-b77c-41ac-af3f-c9ae4107a429)
+
+### 3. Apertura del Archivo
+- Utiliza la opción **OpenFile**.
+- Asegúrate de seleccionar el formato correcto, en este caso **.csv**.
+
+![image](https://github.com/user-attachments/assets/a0539c85-df19-4da1-92c0-f830d1568f54)
+
+### 4. Verificación de Datos
+- Asegúrate de que los datos estén bien cargados y en el formato adecuado.
+
+![image](https://github.com/user-attachments/assets/442e2577-39fb-4681-99f7-b3d56ad2fa6d)
+
+### 5. Selección del Clasificador
+- Ve a la pestaña de **Clasificador**.
+
+![image](https://github.com/user-attachments/assets/83f23267-de84-4834-8dcf-277388df7881)
+
+### 6. Elección del Tipo de Clasificador
+- Selecciona el algoritmo de clasificación que deseas utilizar.
+
+![image](https://github.com/user-attachments/assets/90a4649d-f45d-4f3e-9c73-65ffab18f5a2)
+
+### 7. Ejecución del Análisis
+- Presiona **Start** para iniciar el proceso de clasificación.
+- Se generará un modelo basado en los datos proporcionados.
+
+![image](https://github.com/user-attachments/assets/96aec125-cc4d-45fb-aa7d-b2edd41e0ab2)
+
+### 8. Análisis de Resultados
+- Analiza los límites establecidos para cada variable (temperatura y humedad).
+- Define un **umbral de tolerancia** para determinar si se debe activar una alerta.
+
+![image](https://github.com/user-attachments/assets/c7807ed6-3a12-4191-ae06-08b818af9eff)
+
+### 9. Código de Arduino
+Este es el código de Arduino para imprimir el valor del sensor en el puerto serial:
+
+![image](https://github.com/user-attachments/assets/65360efe-dd43-470b-bc8d-dd293168a292)
+
+
+
+
 primero se guardan los datos obtenidos para posteriormente categorizar
 normal- temperatura
 anormal- temperatura
