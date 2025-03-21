@@ -1,0 +1,2 @@
+[temperatura,27,44,anormal_temperatura]
+[humedad,7,16,anormal_humedad]
