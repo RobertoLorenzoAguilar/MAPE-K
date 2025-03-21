@@ -83,64 +83,15 @@ Este es el código de Arduino para imprimir el valor del sensor en el puerto ser
 
 
 
+### 10. Evidencias
 
-primero se guardan los datos obtenidos para posteriormente categorizar
-normal- temperatura
-anormal- temperatura
-normal- humedad
-anormal- humedad
-
-![image](https://github.com/user-attachments/assets/b284def0-41b4-4c13-b788-9b0ec9ba1b37)
+![WhatsApp Image 2025-03-21 at 09 50 00](https://github.com/user-attachments/assets/aceeace7-2b1c-4703-be3f-ac479c7dbacb)
 
 
-Se importa  a Weka
-
-![image](https://github.com/user-attachments/assets/037987a4-b77c-41ac-af3f-c9ae4107a429)
+![WhatsApp Image 2025-03-21 at 09 51 07](https://github.com/user-attachments/assets/ba65dd1d-afcd-4a75-8518-23c756b0342d)
 
 
-Mediante  OpenFile
-asegurate de selecionar el formato debido como .csv en este caso
-
-
-![image](https://github.com/user-attachments/assets/a0539c85-df19-4da1-92c0-f830d1568f54)
-
-
-Asegurate de que todo este bien, que los datos esten en su formato
-
-![image](https://github.com/user-attachments/assets/442e2577-39fb-4681-99f7-b3d56ad2fa6d)
-
-Despues seleccionar el clasificador la pestaña
-![image](https://github.com/user-attachments/assets/83f23267-de84-4834-8dcf-277388df7881)
-
-
-Despues señeccionarel tipo de clasificador 
-![image](https://github.com/user-attachments/assets/90a4649d-f45d-4f3e-9c73-65ffab18f5a2)
-
-
-Al darle start te generara el conocimiento
-
-![image](https://github.com/user-attachments/assets/96aec125-cc4d-45fb-aa7d-b2edd41e0ab2)
-
-para analizar tus limites por variable temperatura, humedad
-
-en base  a ello puedes generar tu umbral de tolerancia 
-
-![image](https://github.com/user-attachments/assets/c7807ed6-3a12-4191-ae06-08b818af9eff)
-
-
-esto es lo que llama el analizador para considerar si alerta o no
-
-
-
-este es el codigo de Arduino para imprimir el valor del sensor en serial
-
-![image](https://github.com/user-attachments/assets/65360efe-dd43-470b-bc8d-dd293168a292)
-
-
-
-
-
-
+![Recording 2025-03-21 at 10 03 40](https://github.com/user-attachments/assets/29b3ae2c-bf16-41fa-a6ff-af9c0d5d0a1e)
 
 
 
