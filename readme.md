@@ -85,9 +85,9 @@ Este es el código de Arduino para imprimir el valor del sensor en el puerto ser
 ### 10. Trabajo pendiente automatización mediante simulación fisica  con https://wokwi.com/ para le obtención de datos
 ![image](https://github.com/user-attachments/assets/1499ae65-6e73-4b97-a9ab-5a76a082e8a7)
 
-´´
+```robot
     robot test.robot
-´´
+```
 
 ### 11. Evidencias
 
