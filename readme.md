@@ -5,6 +5,10 @@
 
 Este sistema implementa el modelo **MAPE-K** para el monitoreo y control de la temperatura y humedad mediante un Arduino con un sensor **DHT11**. Su propósito es analizar las lecturas obtenidas, clasificarlas según reglas predefinidas y tomar decisiones en función de los resultados.  
 
+## Esquematico  
+
+![image](https://github.com/user-attachments/assets/7d74d473-66d2-4a3c-bd99-fc86920e1fcb)
+
 ## Funcionamiento  
 
 ### 1. Monitoreo  
